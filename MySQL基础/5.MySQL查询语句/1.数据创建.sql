@@ -27,7 +27,7 @@ create table classes(
 );
 
 # 向表中插入数据
-insert into studuent values
+insert into students values
     (0,'小明',18,168.00,2,1,0),
     (0,'小黄',17,175.00,1,2,0),
     (0,'小红',14,177.00,2,3,0),
